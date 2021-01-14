@@ -3,7 +3,7 @@
 	* Testa a classe de validação de documentos. Fornece 100% de cobertura.
 	* @see		ValidacaoDocs
 	* 
-	* @author	Luis Andrade - Infosys <luis.a.neto@outlook.com>
+	* @author	Luis Andrade <luis.a.neto@outlook.com>
 	* @version	1.0
 	* @date		Maio/2018
 	*/
